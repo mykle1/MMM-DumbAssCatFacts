@@ -1,0 +1,22 @@
+{
+  "name": "mmm-dumbasscatfacts",
+  "version": "1.0.0",
+  "description": "Facts about cats?",
+  "main": "MMM-DumbAssCatFacts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mykle1/MMM-DumbAssCatFacts.git"
+  },
+  "author": "Mykle1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mykle1/MMM-DumbAssCatFacts/issues"
+  },
+  "homepage": "https://github.com/mykle1/MMM-DumbAssCatFacts#readme",
+  "dependencies": {
+    "unirest": "latest"
+  }
+}
